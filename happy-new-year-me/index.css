@@ -1,0 +1,14 @@
+.image{width: 100%;
+    position: relative;
+
+
+}
+.banner{
+    position: relative;
+}
+.left-p{
+    position: absolute;
+    top: 30%;
+    right: 10%;
+}
+
