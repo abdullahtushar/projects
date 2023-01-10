@@ -1,4 +1,5 @@
 .image{width: 100%;
+    height: 80%;
     position: relative;
 
 
@@ -11,4 +12,139 @@
     top: 30%;
     right: 10%;
 }
+.head{
+    margin-bottom: 12px;
+}
+.img{
+    width: 25%;
+    margin-left: 120px;
+}
+.sec{
+    display: flex;
+    margin: 15px;
+    padding: 10px;
+}
+.list {
+   list-style: none
+;
 
+}
+.list li{
+    margin-right: 30px;
+}
+
+.button-h{
+  margin: 8px;
+  padding: 8px;
+  border-radius: 5px;
+  color:white;
+  background-color: orange;
+  border: 1px solid white;
+
+}
+.left-p h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+.second-s{
+    display: flex;
+}
+.part{
+    margin-left: 350px;
+    margin-top: 80px;
+}
+.second-s{
+    margin: 15px;
+}
+.part h2{
+    font-size: 30px;
+}
+span{
+    color: green;
+    margin: 6px;
+}
+
+.plansP{
+    width: 20%;
+    margin: 2px;
+    padding: 2px;
+    
+
+}
+.plansP img{
+    width: 30%;
+    justify-content: center;
+    text-align: center;
+
+}
+.plans{
+    display: flex;
+    margin-left:330px;
+}
+.section{
+    margin: 15px;
+}
+.section h2{
+    text-align: center;
+    margin-top: 5px;
+    justify-content: center;
+}
+.plansP h3 p{
+    text-align: center;
+    justify-content: center;
+}
+.watch{
+    margin-left: 320px;
+    width: 55%;
+    margin-top: 70px;
+    position: relative;
+    
+
+}
+.lastS{
+    position: absolute;
+   
+    right: 30%;
+    bottom: 10%;
+   
+}
+.lastSp{
+    position: relative;
+   
+   
+}
+.boxSection{
+    margin: 15px;
+}
+.footer{
+    width: 90%;
+    background-color: black;
+    border: 1px solid black;
+    margin-left: 90px;
+    display: flex;
+   
+   
+}
+.sec1{
+    color: white;
+    margin: 120px;
+}
+.sec2{
+    color: white;
+    margin-top: 120px;
+    margin-left: 150px;
+}
+.sec2 input{
+    width: 130px;
+    padding: 6px;
+}
+.subs{
+    margin: 7px;
+    padding: 8px;
+    color: orange;
+    border-radius: 5px;
+
+}
+.iconss{
+    margin: 4px;
+}
